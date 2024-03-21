@@ -1,4 +1,5 @@
 ### Регистрация представленна с помощью Firebase и JWT 
+!! В файле main.js из объекта firebaseConfig вырезаны все данные, учесть это 
 
 ## Project Setup
 
