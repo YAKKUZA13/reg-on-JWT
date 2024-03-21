@@ -1,3 +1,5 @@
+### Регистрация представленна с помощью Firebase и JWT 
+
 ## Project Setup
 
 ```sh
