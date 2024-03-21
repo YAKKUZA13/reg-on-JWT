@@ -11,12 +11,12 @@ import "./api"
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAd2ww-rF1q-5ngyIqbdtCrxKZyXx5MGnI",
-    authDomain: "jwt-firebase-vue3-960c5.firebaseapp.com",
-    projectId: "jwt-firebase-vue3-960c5",
-    storageBucket: "jwt-firebase-vue3-960c5.appspot.com",
-    messagingSenderId: "276684395048",
-    appId: "1:276684395048:web:4726b0a540c5dd46d59b1d"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 import App from './App.vue'
